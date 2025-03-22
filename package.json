@@ -11,7 +11,7 @@
     "crud",
     "mongodb"
   ],
-  "author": "akshay kashyap",
+  "author": "david macharia",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.0",
